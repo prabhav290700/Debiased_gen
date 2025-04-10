@@ -1,5 +1,5 @@
 
-# A Multi-Modal framework for Debiasing Diffusion Models using Tweedie’s
+# Debiasing Diffusion Models via Score Guidance
 
 
 ### Set Up 
